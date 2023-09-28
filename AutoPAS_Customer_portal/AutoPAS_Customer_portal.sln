@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoPAS_Customer_portal", "AutoPAS_Customer_portal\AutoPAS_Customer_portal.csproj", "{BC2B21B0-6E5F-435E-B160-35A896659517}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoPAS_Customer_Portal.Tests", "..\..\..\..\NestAssessment\FinalAssessment\FinalAssessment-API\AutoPAS_Customer_Portal.Tests\AutoPAS_Customer_Portal.Tests.csproj", "{7A50F6E6-3145-4DB3-87AA-C47E7B928C1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC2B21B0-6E5F-435E-B160-35A896659517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2B21B0-6E5F-435E-B160-35A896659517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2B21B0-6E5F-435E-B160-35A896659517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2B21B0-6E5F-435E-B160-35A896659517}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A50F6E6-3145-4DB3-87AA-C47E7B928C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A50F6E6-3145-4DB3-87AA-C47E7B928C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A50F6E6-3145-4DB3-87AA-C47E7B928C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A50F6E6-3145-4DB3-87AA-C47E7B928C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBA17127-9124-4670-86E3-17A404CA8AB5}
+	EndGlobalSection
+EndGlobal
